@@ -1,0 +1,27 @@
+{
+  "name": "mits_assistant_bot-",
+  "version": "1.0.0",
+  "description": "Language: Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedorchakBogdan/MITS_Assistant_Bot-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FedorchakBogdan/MITS_Assistant_Bot-/issues"
+  },
+  "homepage": "https://github.com/FedorchakBogdan/MITS_Assistant_Bot-#readme",
+  "dependencies": {
+    "mongoose": "^5.11.0",
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
