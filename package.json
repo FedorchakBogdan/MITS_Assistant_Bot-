@@ -7,9 +7,6 @@
     "start": "node ./src/index.js",
     "dev": "nodemon ./src/index.js"
   },
-  "engines": {
-    "node": "12.18.2"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FedorchakBogdan/MITS_Assistant_Bot-.git"
